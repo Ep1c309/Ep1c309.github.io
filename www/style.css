@@ -1,0 +1,26 @@
+body {
+    background-image: url(bcgr.gif);
+    background-position: left top;
+    background-repeat: repeat;
+    color: whitesmoke;
+    font-size: large;
+    font-family: "Comic Relief";
+}
+
+a {
+    color: whitesmoke;
+}
+
+.line{
+    width: 60%;
+    height: 5px;
+    border-bottom: 4px solid whitesmoke;
+    padding-top: 20px;
+}
+
+/*.box {
+    flex: 1;
+    background-color: black;
+    color: white;
+    opacity: 0.5;
+  }*/
